@@ -1,0 +1,26 @@
+[{
+        "name": "mathew",
+        "job": "engineer",
+        "pay": 80
+    },
+    {
+        "name": "mark",
+        "job": "doctor",
+        "pay": 400
+    },
+    {
+        "name": "luke",
+        "job": "self-employed",
+        "pay": 150
+    },
+    {
+        "name": "john",
+        "job": "manager",
+        "pay": 175
+    },
+    {
+        "name": "peter",
+        "job": "clerk",
+        "pay": 35
+    }
+]
